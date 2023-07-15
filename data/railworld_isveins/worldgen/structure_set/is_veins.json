@@ -1,0 +1,38 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 5272345191,
+    "separation": 30,
+    "spacing": 60
+  },
+  "structures": [
+    {
+      "structure": "railworld_isveins:frozen_iron_falls",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_isveins:copper_shrine",
+      "weight": 8
+    },
+    {
+      "structure": "railworld_isveins:golden_pavilion",
+      "weight": 6
+    },
+    {
+      "structure": "railworld_isveins:redstone_cube",
+      "weight": 7
+    },
+    {
+      "structure": "railworld_isveins:lapis_tree",
+      "weight": 6
+    },
+    {
+      "structure": "railworld_isveins:garden_of_riches",
+      "weight": 2
+    },
+    {
+      "structure": "railworld_isveins:coal_temple",
+      "weight": 9
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "railworld:vein_structure",
+  "biomes": "#railworld:has_vein/iron_coal",
+  "spawn_overrides": {},
+
+  "ores": [
+    {
+      "probability": 0.7,
+      "id": "minecraft:coal_ore"
+    },
+    {
+      "probability": 0.3,
+      "id": "minecraft:coal_block"
+    }
+  ],
+  "x": 0,
+  "y": -40,
+  "z": 0,
+
+  "size": 300,
+  "ySize": 25,
+  "extraSize": 200,
+  "perOnce": 40,
+  "ticksPerPlace": 40,
+
+  "step": "surface_structures",
+  "replaces": "#railworld:replacing/stone",
+
+  "decor": [
+    "railworld_isveins:coal/coal_temple"
+  ]
+}
